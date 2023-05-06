@@ -1,4 +1,4 @@
-# listemailpassword
+# Introduction
 setting a personal email and password is more pleasing to the eye
 
 list email and password in list.txt
